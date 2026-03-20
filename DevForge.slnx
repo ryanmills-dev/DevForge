@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Api/Api.csproj" Id="bad0c45b-6be5-49d1-aa5c-d53d6a7d3ef7" />
+  <Project Path="Client/Client.csproj" Id="10007829-e4cc-4d0d-96dd-2b20187ea6e1" />
+  <Project Path="Models/Models.csproj" Id="a9a371b5-14b3-4961-9aec-5ddb74415a85" />
+  <Project Path="Tests/Tests.csproj" Id="a35110be-a012-423d-bc17-c62122a988d5" />
+</Solution>
